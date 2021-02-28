@@ -2,6 +2,6 @@
 
 Link: https://dacon.io/competitions/official/235706/
 
-Tensorboard: https://tensorboard.dev/experiment/y6Jkn1yMQ8GhYdJWG5aKWQ/#scalars
+Tensorboard: hhttps://tensorboard.dev/experiment/FJoKQKmPQSaDbFmG162zTA/
 
 Code: will be leased after competition terminated
