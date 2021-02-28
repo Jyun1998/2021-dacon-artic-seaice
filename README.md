@@ -1,5 +1,8 @@
 # 2021-dacon-artic-seaice
 
+## Topic: Arctic Sea Ice concentration prediction using Satellite image
+
+## Content:
 Link: https://dacon.io/competitions/official/235706/
 
 Tensorboard: https://tensorboard.dev/experiment/FJoKQKmPQSaDbFmG162zTA/#scalars&runSelectionState=eyJmaXQvMjAyMTAyMjgtMDkwNjU1L3RyYWluIjpmYWxzZSwiZml0LzIwMjEwMjI4LTA5MDY1NS92YWxpZGF0aW9uIjpmYWxzZX0%3D&_smoothingWeight=0.1
