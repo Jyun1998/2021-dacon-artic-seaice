@@ -1,6 +1,8 @@
 # 2021-dacon-artic-seaice
 
-## Topic: Arctic Sea Ice concentration prediction using Satellite image
+## Topic: 
+
+Arctic Sea Ice concentration prediction using Satellite image
 
 ## Content:
 Link: https://dacon.io/competitions/official/235706/
